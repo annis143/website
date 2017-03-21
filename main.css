@@ -1,0 +1,164 @@
+*{
+    padding:0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Space Mono', monospace;
+    font-size: 14px;
+    margin: 0 auto;
+}
+
+
+    
+    
+}
+.header{
+    float:left;
+    width: 95%;
+    height: 25%;
+    background-image: url(_img/pink.png);
+}
+
+nav{
+   
+    margin: 20 -50px 0 0;
+    width: 100%;
+    padding-top:10px;
+    padding-bottom:10px;
+    background: #4A4A4A;
+    text-align: center;
+
+}
+
+nav a{
+    list-style: none;
+    margin-left:50px;
+    margin-right:50px;
+    text-decoration: none;
+    font-size: 16px;
+      color:#fff;
+
+}
+
+nav a:hover{
+    background: #4A4A4A;
+    color: #07B2F4;
+}
+
+header img {
+    width:100%;
+}
+.me{
+     font-family: 'Space Mono', monospace;
+    font-size: 14px;
+    color: #FFFFFF;
+    background: #4A4A4A;
+    width: 100%; 
+}
+.me img {
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+.me p {
+    padding-top:20px;
+    padding-bottom:50px;
+    margin-left:200px;
+    margin-right:200px;
+}
+
+.me ul {
+    padding-bottom:100px;
+    text-align:center;
+}
+
+.me h1 {
+text-align:center;
+}
+
+.countries  {
+      margin-top:100px;
+      display: table;
+    margin: 0 auto; 
+    margin-bottom: 50px;
+    
+}
+figure img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.pic {
+display:inline-block;
+padding-top:90px;
+
+}
+.info {
+text-align:;
+width:500px;
+
+}
+footer {
+    margin-top: 50;
+    margin-bottom:30px;
+    text-align: center;
+}
+
+.contact input{
+    margin-top:20px; 
+    width:300px;
+    height: 40px;
+    border-style: 1px dotted white;
+}
+.contact input[type="submit"]{
+    background-color: #fff;
+}
+
+.contact input[type="submit"]{
+    background-color: #d4fae0;
+}
+.contact{
+    background-color: #D3F2D1;
+}
+
+.contactform {
+    padding-top:100px;
+    padding-bottom:100px;
+}
+
+
+
+.contactform button {
+    border-radius:7px;
+    color:white;
+    
+}
+
+.contact h1 {
+    padding-top: 60px;
+}
+
+.video {
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+
+main {
+    width: 500px;
+    margin: 0 auto;
+}
+.home main {
+    width: 100%;
+}
+
+.destination {
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+form {
+    text-align: center;
+    
+    
+}
